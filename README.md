@@ -37,4 +37,4 @@ Strong seasonal peaks appear in November–December, suggesting promotional oppo
 
 🌍 Live Dashboard
 
-👉 View the Interactive Dashboard on Tableau Public
+👉 https://public.tableau.com/app/profile/ganesh.navre/viz/SuperStoreDashboard_17579597336800/SuperstoreSalesDashboard?publish=yes
