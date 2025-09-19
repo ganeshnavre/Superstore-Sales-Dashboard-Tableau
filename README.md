@@ -1,4 +1,4 @@
-** # 📊 Superstore Sales Dashboard **
+# 📊 Superstore Sales Dashboard 
 ✨ Project Overview
 
 The Superstore Sales Dashboard is my attempt to bring the well-known Superstore dataset to life. Instead of static charts, I wanted to design an interactive, business-ready dashboard that not only looks clean but also tells a story. The dashboard uncovers what’s driving sales, where profits are leaking, and how customer behavior impacts performance.
