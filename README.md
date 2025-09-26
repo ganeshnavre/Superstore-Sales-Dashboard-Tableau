@@ -11,7 +11,7 @@ Highlight sales, profit, discount patterns, and customer contributions.
 
 Create a dashboard that decision-makers can use to spot growth opportunities and fix weak areas quickly.
 
-🛠 Tools & Dataset
+ Tools & Dataset
 
 Tableau Public → Data visualization & storytelling.
 
